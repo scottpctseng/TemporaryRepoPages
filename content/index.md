@@ -1,8 +1,11 @@
 ---
-title: Welcome to Quartz
+title: A grand detour around dental science
+date: 2025-12-20
+draft: "false"
+tag:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-Yeah! Initial success!
+Yeah! Initial success!  
+	 
+[[linktest]]
+[[CV]]
